@@ -1097,7 +1097,7 @@
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     developer
-                                    <span class="gh">ranked 207k out of 131m users</span>
+                                    <span class="gh">ranked 207k out of 130m users</span>
                                 </div>
                                 <div class="text">Published 93 public repositories</div>
                             </div>
@@ -1248,7 +1248,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 6 Mar 2024, 05:08:42 (timezone Europe/Amsterdam) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 6 Mar 2024, 07:10:22 (timezone Europe/Amsterdam) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
